@@ -4,7 +4,7 @@
 - Naberezhnye Chelny, Russia
 ---
 ## Contact ##
-* 
+* email: lion_sa@mail.ru
 * Discord: ArturS#9425
 ---
 ### Education ###

@@ -15,7 +15,7 @@ ___
 
 ### About me ###
 1. I am engineer-constructor.
-2. I am developing construction documentation(CMD- construction metal detailing) for macking stell constraction in 3d programm.
+2. I am developing construction documentation(CMD- construction metal detailing) for making steel construction in 3d program.
 3. I am looking to collaborate with EPAM.
 4. I am interested in IT technology. 
 5. My hobbies are football and swimming.
